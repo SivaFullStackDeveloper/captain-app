@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.409" height="21.409" viewBox="0 0 21.409 21.409">
+  <g id="Iconly_Two-tone_More-Circle" data-name="Iconly/Two-tone/More-Circle" transform="translate(0.75 0.75)">
+    <g id="More-Circle" transform="translate(0 0)">
+      <path id="Stroke-1" d="M10.7.75A9.954,9.954,0,1,1,.75,10.7,9.955,9.955,0,0,1,10.7.75Z" transform="translate(-0.75 -0.75)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+      <path id="Fill-3" d="M5.612,11.38A1.289,1.289,0,1,1,6.9,10.092,1.29,1.29,0,0,1,5.612,11.38" transform="translate(-0.478 -0.137)" opacity="0.4"/>
+      <path id="Fill-5" d="M10.091,11.38a1.289,1.289,0,1,1,1.289-1.288,1.29,1.29,0,0,1-1.289,1.288" transform="translate(-0.137 -0.137)" opacity="0.4"/>
+      <path id="Fill-7" d="M14.57,11.38a1.289,1.289,0,1,1,1.289-1.288A1.29,1.29,0,0,1,14.57,11.38" transform="translate(0.204 -0.137)" opacity="0.4"/>
+    </g>
+  </g>
+</svg>

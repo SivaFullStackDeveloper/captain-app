@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.544" height="18.498" viewBox="0 0 18.544 18.498">
+  <g id="Iconly_Curved_Filter" data-name="Iconly/Curved/Filter" transform="translate(0.75 0.75)">
+    <g id="Filter">
+      <line id="Stroke-1" x1="6.904" transform="translate(0 14.093)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Stroke-3" d="M11.2,14.065c0,2.178.726,2.9,2.9,2.9s2.9-.725,2.9-2.9-.726-2.9-2.9-2.9S11.2,11.887,11.2,14.065Z" transform="translate(0.032 0.029)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+      <line id="Stroke-5" x2="6.903" transform="translate(10.14 2.905)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Stroke-7" d="M6.479,3.574c0-2.177-.726-2.9-2.9-2.9s-2.9.726-2.9,2.9.726,2.9,2.9,2.9S6.479,5.752,6.479,3.574Z" transform="translate(-0.671 -0.671)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

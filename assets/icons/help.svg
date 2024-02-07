@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.047" height="21.047" viewBox="0 0 21.047 21.047">
+  <g id="Info-Circle" transform="translate(0.75 0.75)">
+    <path id="Stroke-1" d="M10.523.75A9.773,9.773,0,1,1,.75,10.524,9.774,9.774,0,0,1,10.523.75Z" transform="translate(-0.75 -0.75)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+    <line id="Stroke-3" y2="4.669" transform="translate(9.768 5.763)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+    <line id="Stroke-5" x2="0.011" transform="translate(9.768 13.784)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+  </g>
+</svg>
